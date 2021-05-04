@@ -1,4 +1,4 @@
-[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=a1re1)](https://github.com/anuraghazra/github-readme-stats)
+![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=a1re1&count_private=true&show_icons=true&theme=dracula)
 
 
 <!---
